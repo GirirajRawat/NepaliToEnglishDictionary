@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NepaliToEnglishDictionary</string>
+    <string-array name="dictionary">
+        <item>yeta aunus</item>
+        <item>Kaha Chau</item>
+        <item>Namaste</item>
+        <item>kaha bata aunuvayo</item>
+        <item>kata jadai</item>
+    </string-array>>
+</resources>
