@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
+//try catch
     private void readFromFile() {
 
             try {
