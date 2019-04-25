@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
     private void readFromFile() {
 
             try {
-                FileInputStream fos = openFileInput("word.txt");
+                FileInputStream fos = openFileInput("words.txt");
                 InputStreamReader isr = new InputStreamReader(fos);
                 BufferedReader br = new BufferedReader(isr);
                 String line = "";
